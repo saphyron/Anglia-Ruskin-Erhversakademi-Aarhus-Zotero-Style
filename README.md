@@ -1,2 +1,2 @@
-# Anglia-Rusking-Erhversakademi-Arrhus-Zotero-Style
+# Anglia-Ruskin-Erhversakademi-Arrhus-Zotero-Style
 Zotero style for Erhvervsakademi Aarhus.
